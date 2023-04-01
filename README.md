@@ -1,4 +1,4 @@
-![Logo](https://i.ibb.co/dQQTR6Y/WEB-DEVELOPER-1.png)
+![Logo](https://i.ibb.co/Dz5Twt5/WEB-DEVELOPER-2.png)
 <em>
 
 <h1 align="center">Hola, mi nombre es Lautaro!<img width="40" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.png">
