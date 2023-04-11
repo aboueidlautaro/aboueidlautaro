@@ -1,7 +1,7 @@
 ![Logo](https://i.ibb.co/Dz5Twt5/WEB-DEVELOPER-2.png)
 <em>
 
-<h1 align="center">Hi<img width="40" src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_medium-light-skin-tone_1f44b-1f3fc_1f3fc.png">! I'm Lautaro Aboueid, <img height="40" src="https://i.ibb.co/0BYvp1Q/Agregar-un-t-tulo.png">
+<h1 align="center">Hi<img width="40" src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_medium-light-skin-tone_1f44b-1f3fc_1f3fc.png">! I'm Lautaro Aboueid, <img src="https://i.ibb.co/0BYvp1Q/Agregar-un-t-tulo.png">
 </h1>
 
 <p align="center">Me considero una persona con una mente inquieta que le gusta aprender por sí misma, cada <strong>proyecto</strong> es un nuevo <strong>reto</strong> para <strong>aprender</strong> y <strong>crecer</strong> profesionalmente.
